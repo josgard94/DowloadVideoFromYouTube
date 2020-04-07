@@ -32,9 +32,7 @@ stream.download(folder)
 print('Video descargado')
 
 print('Presione la tecla esc para terminar.')
-while True:
 
+while True:
     if keyboard.is_pressed('esc'):
     	exit()
-
-exit()
