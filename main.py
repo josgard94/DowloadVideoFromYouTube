@@ -10,7 +10,7 @@ These modules need to be installed:
     pip install pyinstaller 
 
 To compile the project use
-		pyinstaller  --clean --win-private-assemblies --noupx --onedir --onefile main.py
+    pyinstaller  --clean --win-private-assemblies --noupx --onedir --onefile main.py
 
 """
 
