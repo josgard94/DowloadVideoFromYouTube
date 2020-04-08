@@ -5,7 +5,7 @@ Dowload videos from YouTube with this application developed with python 3.
 
 these modules need to be installed:
 
-	pip installa pytube3
+	pip install pytube3
 	pip install pyinstaller
 	
 
