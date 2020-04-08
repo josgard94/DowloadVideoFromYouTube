@@ -1,7 +1,7 @@
 Author: Edgard Diaz
 Date: April  07th  2020
 
-Dowload videos from YouTube with this application developed with python 3.
+Download videos from YouTube with this application developed with python 3.
 
 these modules need to be installed:
 
